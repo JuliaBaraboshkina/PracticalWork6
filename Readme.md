@@ -7,6 +7,6 @@
 
 ![image](https://user-images.githubusercontent.com/90133237/226110066-fb3ebcd9-5ff1-4845-8911-41d5bf6dad1c.png)
 
-#### Демонстрация работы программы (Стрелки показывают реальное время):
+#### Демонстрация работы программы (Часы показывают реальное время):
 
 ![ЧасыFX](https://user-images.githubusercontent.com/90133237/227739395-d0d2ee15-3af9-4888-b53d-670ea7d793ac.gif)
